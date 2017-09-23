@@ -1,0 +1,132 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+GOSYM_PREFIX	.\vendor\golang.org\x\sys\unix\gccgo_c.c	13;"	d	file:
+TEXT	.\vendor\golang.org\x\sys\unix\asm_darwin_386.s	/^TEXT	·RawSyscall6(SB),NOSPLIT,$0-40$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_darwin_386.s	/^TEXT	·Syscall(SB),NOSPLIT,$0-28$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_darwin_386.s	/^TEXT	·Syscall6(SB),NOSPLIT,$0-40$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_darwin_386.s	/^TEXT	·Syscall9(SB),NOSPLIT,$0-52$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_darwin_386.s	/^TEXT ·RawSyscall(SB),NOSPLIT,$0-28$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_darwin_amd64.s	/^TEXT	·RawSyscall(SB),NOSPLIT,$0-56$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_darwin_amd64.s	/^TEXT	·RawSyscall6(SB),NOSPLIT,$0-80$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_darwin_amd64.s	/^TEXT	·Syscall(SB),NOSPLIT,$0-56$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_darwin_amd64.s	/^TEXT	·Syscall6(SB),NOSPLIT,$0-80$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_darwin_amd64.s	/^TEXT	·Syscall9(SB),NOSPLIT,$0-104$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_darwin_arm.s	/^TEXT	·RawSyscall(SB),NOSPLIT,$0-28$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_darwin_arm.s	/^TEXT	·RawSyscall6(SB),NOSPLIT,$0-40$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_darwin_arm.s	/^TEXT	·Syscall(SB),NOSPLIT,$0-28$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_darwin_arm.s	/^TEXT	·Syscall6(SB),NOSPLIT,$0-40$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_darwin_arm.s	/^TEXT	·Syscall9(SB),NOSPLIT,$0-52$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_darwin_arm64.s	/^TEXT	·RawSyscall(SB),NOSPLIT,$0-56$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_darwin_arm64.s	/^TEXT	·RawSyscall6(SB),NOSPLIT,$0-80$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_darwin_arm64.s	/^TEXT	·Syscall(SB),NOSPLIT,$0-56$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_darwin_arm64.s	/^TEXT	·Syscall6(SB),NOSPLIT,$0-80$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_darwin_arm64.s	/^TEXT	·Syscall9(SB),NOSPLIT,$0-104$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_dragonfly_amd64.s	/^TEXT	·RawSyscall6(SB),NOSPLIT,$0-88$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_dragonfly_amd64.s	/^TEXT	·Syscall(SB),NOSPLIT,$0-64$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_dragonfly_amd64.s	/^TEXT	·Syscall6(SB),NOSPLIT,$0-88$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_dragonfly_amd64.s	/^TEXT	·Syscall9(SB),NOSPLIT,$0-112$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_dragonfly_amd64.s	/^TEXT ·RawSyscall(SB),NOSPLIT,$0-64$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_freebsd_386.s	/^TEXT	·RawSyscall6(SB),NOSPLIT,$0-40$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_freebsd_386.s	/^TEXT	·Syscall(SB),NOSPLIT,$0-28$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_freebsd_386.s	/^TEXT	·Syscall6(SB),NOSPLIT,$0-40$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_freebsd_386.s	/^TEXT	·Syscall9(SB),NOSPLIT,$0-52$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_freebsd_386.s	/^TEXT ·RawSyscall(SB),NOSPLIT,$0-28$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_freebsd_amd64.s	/^TEXT	·RawSyscall6(SB),NOSPLIT,$0-80$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_freebsd_amd64.s	/^TEXT	·Syscall(SB),NOSPLIT,$0-56$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_freebsd_amd64.s	/^TEXT	·Syscall6(SB),NOSPLIT,$0-80$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_freebsd_amd64.s	/^TEXT	·Syscall9(SB),NOSPLIT,$0-104$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_freebsd_amd64.s	/^TEXT ·RawSyscall(SB),NOSPLIT,$0-56$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_freebsd_arm.s	/^TEXT	·RawSyscall(SB),NOSPLIT,$0-28$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_freebsd_arm.s	/^TEXT	·RawSyscall6(SB),NOSPLIT,$0-40$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_freebsd_arm.s	/^TEXT	·Syscall(SB),NOSPLIT,$0-28$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_freebsd_arm.s	/^TEXT	·Syscall6(SB),NOSPLIT,$0-40$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_freebsd_arm.s	/^TEXT	·Syscall9(SB),NOSPLIT,$0-52$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_linux_386.s	/^TEXT	·RawSyscall6(SB),NOSPLIT,$0-40$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_linux_386.s	/^TEXT	·Syscall(SB),NOSPLIT,$0-28$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_linux_386.s	/^TEXT	·Syscall6(SB),NOSPLIT,$0-40$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_linux_386.s	/^TEXT ·RawSyscall(SB),NOSPLIT,$0-28$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_linux_386.s	/^TEXT ·rawsocketcall(SB),NOSPLIT,$0-36$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_linux_386.s	/^TEXT ·seek(SB),NOSPLIT,$0-28$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_linux_386.s	/^TEXT ·socketcall(SB),NOSPLIT,$0-36$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_linux_amd64.s	/^TEXT	·Syscall(SB),NOSPLIT,$0-56$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_linux_amd64.s	/^TEXT ·RawSyscall(SB),NOSPLIT,$0-56$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_linux_amd64.s	/^TEXT ·RawSyscall6(SB),NOSPLIT,$0-80$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_linux_amd64.s	/^TEXT ·Syscall6(SB),NOSPLIT,$0-80$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_linux_amd64.s	/^TEXT ·gettimeofday(SB),NOSPLIT,$0-16$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_linux_arm.s	/^TEXT	·RawSyscall6(SB),NOSPLIT,$0-40$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_linux_arm.s	/^TEXT	·Syscall(SB),NOSPLIT,$0-28$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_linux_arm.s	/^TEXT	·Syscall6(SB),NOSPLIT,$0-40$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_linux_arm.s	/^TEXT ·RawSyscall(SB),NOSPLIT,$0-28$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_linux_arm.s	/^TEXT ·seek(SB),NOSPLIT,$0-32$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_linux_arm64.s	/^TEXT	·Syscall(SB),NOSPLIT,$0-56$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_linux_arm64.s	/^TEXT ·RawSyscall(SB),NOSPLIT,$0-56$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_linux_arm64.s	/^TEXT ·RawSyscall6(SB),NOSPLIT,$0-80$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_linux_arm64.s	/^TEXT ·Syscall6(SB),NOSPLIT,$0-80$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_linux_mips64x.s	/^TEXT	·RawSyscall(SB),NOSPLIT,$0-56$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_linux_mips64x.s	/^TEXT	·RawSyscall6(SB),NOSPLIT,$0-80$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_linux_mips64x.s	/^TEXT	·Syscall(SB),NOSPLIT,$0-56$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_linux_mips64x.s	/^TEXT	·Syscall6(SB),NOSPLIT,$0-80$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_linux_mipsx.s	/^TEXT	·RawSyscall(SB),NOSPLIT,$0-28$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_linux_mipsx.s	/^TEXT	·RawSyscall6(SB),NOSPLIT,$0-40$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_linux_mipsx.s	/^TEXT	·Syscall(SB),NOSPLIT,$0-28$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_linux_mipsx.s	/^TEXT	·Syscall6(SB),NOSPLIT,$0-40$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_linux_mipsx.s	/^TEXT	·Syscall9(SB),NOSPLIT,$0-52$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_linux_ppc64x.s	/^TEXT	·Syscall(SB),NOSPLIT,$0-56$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_linux_ppc64x.s	/^TEXT ·RawSyscall(SB),NOSPLIT,$0-56$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_linux_ppc64x.s	/^TEXT ·RawSyscall6(SB),NOSPLIT,$0-80$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_linux_ppc64x.s	/^TEXT ·Syscall6(SB),NOSPLIT,$0-80$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_linux_s390x.s	/^TEXT ·RawSyscall(SB),NOSPLIT,$0-56$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_linux_s390x.s	/^TEXT ·RawSyscall6(SB),NOSPLIT,$0-80$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_linux_s390x.s	/^TEXT ·Syscall(SB),NOSPLIT,$0-56$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_linux_s390x.s	/^TEXT ·Syscall6(SB),NOSPLIT,$0-80$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_netbsd_386.s	/^TEXT	·RawSyscall6(SB),NOSPLIT,$0-40$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_netbsd_386.s	/^TEXT	·Syscall(SB),NOSPLIT,$0-28$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_netbsd_386.s	/^TEXT	·Syscall6(SB),NOSPLIT,$0-40$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_netbsd_386.s	/^TEXT	·Syscall9(SB),NOSPLIT,$0-52$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_netbsd_386.s	/^TEXT ·RawSyscall(SB),NOSPLIT,$0-28$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_netbsd_amd64.s	/^TEXT	·RawSyscall(SB),NOSPLIT,$0-56$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_netbsd_amd64.s	/^TEXT	·RawSyscall6(SB),NOSPLIT,$0-80$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_netbsd_amd64.s	/^TEXT	·Syscall(SB),NOSPLIT,$0-56$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_netbsd_amd64.s	/^TEXT	·Syscall6(SB),NOSPLIT,$0-80$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_netbsd_amd64.s	/^TEXT	·Syscall9(SB),NOSPLIT,$0-104$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_netbsd_arm.s	/^TEXT	·RawSyscall(SB),NOSPLIT,$0-28$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_netbsd_arm.s	/^TEXT	·RawSyscall6(SB),NOSPLIT,$0-40$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_netbsd_arm.s	/^TEXT	·Syscall(SB),NOSPLIT,$0-28$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_netbsd_arm.s	/^TEXT	·Syscall6(SB),NOSPLIT,$0-40$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_netbsd_arm.s	/^TEXT	·Syscall9(SB),NOSPLIT,$0-52$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_openbsd_386.s	/^TEXT	·RawSyscall6(SB),NOSPLIT,$0-40$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_openbsd_386.s	/^TEXT	·Syscall(SB),NOSPLIT,$0-28$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_openbsd_386.s	/^TEXT	·Syscall6(SB),NOSPLIT,$0-40$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_openbsd_386.s	/^TEXT	·Syscall9(SB),NOSPLIT,$0-52$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_openbsd_386.s	/^TEXT ·RawSyscall(SB),NOSPLIT,$0-28$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_openbsd_amd64.s	/^TEXT	·RawSyscall(SB),NOSPLIT,$0-56$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_openbsd_amd64.s	/^TEXT	·RawSyscall6(SB),NOSPLIT,$0-80$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_openbsd_amd64.s	/^TEXT	·Syscall(SB),NOSPLIT,$0-56$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_openbsd_amd64.s	/^TEXT	·Syscall6(SB),NOSPLIT,$0-80$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_openbsd_amd64.s	/^TEXT	·Syscall9(SB),NOSPLIT,$0-104$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_solaris_amd64.s	/^TEXT ·rawSysvicall6(SB),NOSPLIT,$0-64$/;"	l
+TEXT	.\vendor\golang.org\x\sys\unix\asm_solaris_amd64.s	/^TEXT ·sysvicall6(SB),NOSPLIT,$0-64$/;"	l
+_STRINGIFY2_	.\vendor\golang.org\x\sys\unix\gccgo_c.c	11;"	d	file:
+_STRINGIFY_	.\vendor\golang.org\x\sys\unix\gccgo_c.c	12;"	d	file:
+build_sysctl	.\vendor\golang.org\x\sys\unix\mksysctl_openbsd.pl	/^sub build_sysctl() {$/;"	s
+debug	.\vendor\golang.org\x\sys\unix\mksysctl_openbsd.pl	/^sub debug() {$/;"	s
+err	.\vendor\golang.org\x\sys\unix\gccgo_c.c	/^	uintptr_t err;$/;"	m	struct:ret	file:
+gccgoRealSyscall	.\vendor\golang.org\x\sys\unix\gccgo_c.c	/^gccgoRealSyscall(uintptr_t trap, uintptr_t a1, uintptr_t a2, uintptr_t a3, uintptr_t a4, uintptr_t a5, uintptr_t a6, uintptr_t a7, uintptr_t a8, uintptr_t a9)$/;"	f
+parseparam	.\vendor\golang.org\x\sys\unix\mksyscall.pl	/^sub parseparam($) {$/;"	s
+parseparam	.\vendor\golang.org\x\sys\unix\mksyscall_solaris.pl	/^sub parseparam($) {$/;"	s
+parseparamlist	.\vendor\golang.org\x\sys\unix\mksyscall.pl	/^sub parseparamlist($) {$/;"	s
+parseparamlist	.\vendor\golang.org\x\sys\unix\mksyscall_solaris.pl	/^sub parseparamlist($) {$/;"	s
+r	.\vendor\golang.org\x\sys\unix\gccgo_c.c	/^	uintptr_t r;$/;"	m	struct:ret	file:
+ret	.\vendor\golang.org\x\sys\unix\gccgo_c.c	/^struct ret {$/;"	s	file:
+unix	.\vendor\golang.org\x\sys\unix\mksyscall.pl	/^package unix$/;"	p
+unix	.\vendor\golang.org\x\sys\unix\mksysctl_openbsd.pl	/^package unix;$/;"	p
+unix	.\vendor\golang.org\x\sys\unix\mksysnum_darwin.pl	/^package unix$/;"	p
+unix	.\vendor\golang.org\x\sys\unix\mksysnum_dragonfly.pl	/^package unix$/;"	p
+unix	.\vendor\golang.org\x\sys\unix\mksysnum_freebsd.pl	/^package unix$/;"	p
+unix	.\vendor\golang.org\x\sys\unix\mksysnum_netbsd.pl	/^package unix$/;"	p
+unix	.\vendor\golang.org\x\sys\unix\mksysnum_openbsd.pl	/^package unix$/;"	p
+use	.\vendor\golang.org\x\sys\unix\gccgo_c.c	/^use(void *p __attribute__ ((unused)))$/;"	f
